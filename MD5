@@ -1,4 +1,4 @@
-8f9bc33c0b1bff87083d5d1a8a207402 *DESCRIPTION
+e178177c6633c1bf3fee2a86493f917d *DESCRIPTION
 6ed5de8043221e111fb74a19542fccad *LICENSE
 4009966ba02a28bd2a1bd8c762dec760 *NAMESPACE
 7d5ea0f48f76432d65ac4e8f19f0d515 *R/carselAndParrish.R
@@ -12,20 +12,11 @@
 6697c07081d63bc670c7b741827ba434 *R/plotHyperDist.R
 a114733e093a949379e9d0f453674b75 *R/utils.R
 7095ccf38364f4bf60a0fa9f8e308079 *README.md
-e89620691992a15f1efb959b35394d66 *build/vignette.rds
+618116a83298a12e4680997e73010dfd *build/vignette.rds
 51a105380fff4293a2cc49fb72485e1f *data/df_porosity.rda
-e403b42e92c88beb66c29892ac7d81f8 *inst/doc/multi_type_data.R
-4b9c1d50d823d3968cde2d28e1f515fb *inst/doc/multi_type_data.Rmd
-0acd7ad3a08ed09ff41928badce1c1d4 *inst/doc/multi_type_data.html
-c087dd5f10c4cea823b848bc27f72243 *inst/doc/real_world_data.R
-efb4ac7f9caaa55908367086841b8550 *inst/doc/real_world_data.Rmd
-911c76c2197846b045d7766ec06e2c47 *inst/doc/real_world_data.html
-b3f3dedcdd8b1c0bfd91e1cf459e5ba2 *inst/doc/spatial_correlation.R
-0dc5e0c0627ac3f1fd1598d4afa83ec1 *inst/doc/spatial_correlation.Rmd
-faaff79daf11dfa4129a6e8ab09e46ae *inst/doc/spatial_correlation.html
 da4664d91dd9d28d3e157ab261cbf417 *inst/doc/using_genExPrior.R
 89f7a0123192a924149bcaabd933debf *inst/doc/using_genExPrior.Rmd
-45973617d274838a8b310a732b067b22 *inst/doc/using_genExPrior.html
+a7b97eba65ec56fba777cb55f121f732 *inst/doc/using_genExPrior.html
 bf234b659823c21d99208aa6613d0667 *man/KL_divergence.Rd
 aaa8c7820871ee3c6ecca1ee1b8a9778 *man/KS_distance.Rd
 716153928c6e7a389fcac776d03c30d2 *man/cap_prior.Rd
@@ -45,7 +36,4 @@ fb19dc9b919b36d2eb63ded49d4ab9db *man/plotExPrior.Rd
 6daab340bf64fe34f916a7a09f9486a4 *tests/testthat/test_genExPrior.R
 32b278c3580cee911369fbb64fb806f6 *tests/testthat/test_multi_type_data.R
 ccffb756db6864ea30ab51eda07b40de *tests/testthat/test_spatial_correlation.R
-4b9c1d50d823d3968cde2d28e1f515fb *vignettes/multi_type_data.Rmd
-efb4ac7f9caaa55908367086841b8550 *vignettes/real_world_data.Rmd
-0dc5e0c0627ac3f1fd1598d4afa83ec1 *vignettes/spatial_correlation.Rmd
 89f7a0123192a924149bcaabd933debf *vignettes/using_genExPrior.Rmd
